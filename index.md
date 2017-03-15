@@ -2,7 +2,7 @@
 
 # [National Youth Week Hackathon 2017](https://uwa.careerhub.com.au/workgroups/guild-volunteer-hub/Events/309784)
 
-Coders for Causes are teaming up with UWA Guild Volunteering and Anglicare to host a weekend hackathon focussing on topics to do with youth and social issues, and everyone is welcome!
+Coders for Causes are teaming up with UWA Guild Volunteering and Anglicare to host a weekend hackathon focussing on topics to do with youth and social issues, and everyone is welcome! The projects are not required to be tech based, so anyone and any skillset is invited and welcome to come down!
 
 The Hackathon will run the weekend following Week 5, from the 31st of March to the 2nd of April. You'll get the opportunity to come up with ideas to address the chosen topics, and then a weekend to put your skills to practice and build a product. The end result of your idea might be an app, a marketing campaign, software, a website, or anything!
 
