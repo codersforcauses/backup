@@ -18,18 +18,6 @@ Register here: [NYW Hackathon Registration ](https://uwa.careerhub.com.au/workgr
 
 ---
 
-# [Coders for Causes x Bloom UWA Sundowner](http://tdy.cl/e/thT4cyk)
-
-Coders for Causes and Bloom UWA are hosting a sundowner at the Bloom Lab to welcome all of our new members! Come down and take advantage of a great chance to catch up with old friends and make new ones!
-
-Head across to the Bloom Lab at St Catherine's College and enjoy some complementary food (cheese platters and watermelon!) and drinks and meet the Coders for Causes and the Bloom communities.
-
-This event is open to all UWA students, members of the Bloom, and Coders for Causes community!
-
-Get your free ticket here: [Sundowner Ticket](http://tdy.cl/e/thT4cyk)
-
----
-
 # Membership
 
 2017 is here, so it's time to renew your Coders for Causes membership!
